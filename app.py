@@ -37,7 +37,7 @@ def exibir_opcaoes():
       print('1. Cadastrar restaurante')
       print('2. Listar restaurante')
       print('3. Alternar Estado do Restaurante')
-      print('4. Sair')
+      print('4. Fechar o Aplicativo')
 
 def finalizar_app():
       '''Função responsável por finalizar o aplicativo'''
